@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID === undefined ? 'Movie-MD&ntpkEKCa#3hBogCyrzb
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 BUTTON: process.env.PORT === undefined ? "true" : process.env.PORT,
-SUDO: process.env.SUDO === undefined ? '94750177369' : process.env.SUDO,
+SUDO: process.env.SUDO === undefined ? '94741354157' : process.env.SUDO,
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO,
 ANTI_DELETE : process.env.ANTI_DELETE === undefined ? 'true' : process.env.ANTI_DELETE,
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
